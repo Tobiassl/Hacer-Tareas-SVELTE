@@ -1,0 +1,15 @@
+<script>
+
+</script>
+
+<main>
+    <nav class="navbar bg-dark" data-bs-theme="dark">
+        <div class="container-fluid">
+          <span class="navbar-brand mb-0 h1">App Tareas</span>
+        </div>
+      </nav>
+</main>
+
+<style>
+
+</style>
